@@ -1,1 +1,1 @@
-# lead-story-carousel
+# Lead story carousel
